@@ -1,0 +1,4 @@
+utilities:
+  - name: packtbi
+    namespace: packtdev
+    pip_url: git+https://github.com/PacktDev/python-utility-packtbi.git@v1.0.0
