@@ -143,8 +143,8 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.10"
-content-hash = "fac92965c60b1a2e6763f4469c9a6b5ee950f56ed9a06fbd320e10609a51cd31"
+python-versions = "^3.8"
+content-hash = "bbb6ef010c8037cf2b813b17587b02c9d17664c7f7d31323dea7c91934461e8e"
 
 [metadata.files]
 adal = [

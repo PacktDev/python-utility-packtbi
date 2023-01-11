@@ -6,7 +6,7 @@ authors = ["raajs <raajs@packt.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.8"
 requests = "^2.28.1"
 adal = "^1.2.7"
 
